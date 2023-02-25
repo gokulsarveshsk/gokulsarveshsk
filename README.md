@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm GOKULSARVESH S K</h1>
 <h3 align="center">Software Engineer😎</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulsarveshsk&label=Profile%20views&color=0e75b6&style=flat" alt="gokulsarveshsk" /> </p>
-
 - 🔖 I’m currently learning **MERN stack**
 
 - 📍 How to reach me **gokulsarveshsk@gmail.com**
@@ -20,4 +18,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulsarveshsk&show_icons=true&locale=en&layout=compact" alt="gokulsarveshsk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsarveshsk&" alt="gokulsarveshsk" /></p>
-
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets3.lottiefiles.com/packages/lf20_4kxDIRVtSo.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
