@@ -1,3 +1,5 @@
+![giphy](https://user-images.githubusercontent.com/106106967/221355574-bc65b071-f1a5-4b86-9311-7207a5dc4050.gif)
+
 <h1 align="center">Hey, I'm GOKULSARVESH S K</h1>
 <h3 align="center">Software Engineer😎</h3>
 
@@ -18,5 +20,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulsarveshsk&show_icons=true&locale=en&layout=compact" alt="gokulsarveshsk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsarveshsk&" alt="gokulsarveshsk" /></p>
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets3.lottiefiles.com/packages/lf20_4kxDIRVtSo.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+
+
+
