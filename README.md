@@ -1,5 +1,5 @@
 ![giphy](https://user-images.githubusercontent.com/106106967/221355574-bc65b071-f1a5-4b86-9311-7207a5dc4050.gif)
-
+<a href="https://user-images.githubusercontent.com/106106967/221355574-bc65b071-f1a5-4b86-9311-7207a5dc4050.gif" target="blank"><img align="center"/></>
 <h1 align="center">Hey, I'm GOKULSARVESH S K</h1>
 <h3 align="center">Software Engineer😎</h3>
 
