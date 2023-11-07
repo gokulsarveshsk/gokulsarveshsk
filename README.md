@@ -21,24 +21,24 @@
   ## 🚀 Projects:
 
 ### 1. AI-enabled Aqua Scooper Boat
-- **Description:** This project involves implementing artificial intelligence in a boat designed to clean water bodies. Share more about how the AI works and the impact it has on environmental conservation.
+- **Description:** This project involves implementing artificial intelligence in a boat designed to clean water bodies. For more deatils enquire my repository 
 
 ### 2. Auction Platform
-- **Description:** An online auction platform where users can bid on various items. What features make your platform stand out? Any unique functionality that sets it apart?
+- **Description:** An online auction platform where users can bid on various items. using MERN stack For more deatils enquire my repository 
 
 ### 3. Social Media
-- **Description:** A social media project, intriguing! What specific features did you implement? How did you approach the design and user experience?
+- **Description:** A social media project, intriguing! using MERN stack, For more deatils enquire my repository
 
 ### 4. Event Registration
-- **Description:** Managing event registrations is crucial. Tell me more about your project—does it include features like ticketing, attendee management, or anything special?
+- **Description:** Managing event registrations is crucial. Tell me more about your project—does it include features like ticketing, attendee management using MERN stack. For more deatils enquire my repository
 
 ### 5. TodoList
-- **Description:** A classic but essential project! Task management?
-- 
+- **Description:** A classic but essential project! Task management For more deatils enquire my repository 
+
 Feel free to share more details or dive deeper into any project you're particularly proud of!
 </p>
 <br/>
-<p>Currently Studying Swift Programming language for iOS app dev</p>
+<p>Currently learning Swift Programming language for iOS app dev</p>
 <h1 align ="center">✍️ Dev Quote</h1>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=light" alt ="Dev Quote"></p>
