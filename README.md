@@ -18,10 +18,27 @@
 </p>
 <br/>
 <p align="center">
-  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsarveshsk&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  ## 🚀 Projects:
+
+### 1. AI-enabled Aqua Scooper Boat
+- **Description:** This project involves implementing artificial intelligence in a boat designed to clean water bodies. Share more about how the AI works and the impact it has on environmental conservation.
+
+### 2. Auction Platform
+- **Description:** An online auction platform where users can bid on various items. What features make your platform stand out? Any unique functionality that sets it apart?
+
+### 3. Social Media
+- **Description:** A social media project, intriguing! What specific features did you implement? How did you approach the design and user experience?
+
+### 4. Event Registration
+- **Description:** Managing event registrations is crucial. Tell me more about your project—does it include features like ticketing, attendee management, or anything special?
+
+### 5. TodoList
+- **Description:** A classic but essential project! Task management?
+- 
+Feel free to share more details or dive deeper into any project you're particularly proud of!
 </p>
 <br/>
-
+<p>Currently Studying Swift Programming language for iOS app dev</p>
 <h1 align ="center">✍️ Dev Quote</h1>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=light" alt ="Dev Quote"></p>
