@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align ="center">🔭 I’m currently pursuing Computer Science And Engineering<br>🌱 I’m currently learning MERN stack<br>💬 DM for any queries<br>⚡ Focus - Believe</p>
+<p align ="center">🔭 I’m currently pursuing Computer Science And Engineering<br>💬 DM for any queries<br>⚡ Focus - Believe</p>
 
 
 ## 🌐 Socials:
